@@ -1,0 +1,30 @@
+.right .picture .img{
+	margin:  20px auto;
+	display: block;
+	width: 572px;
+	height: 380px;
+}
+.right .picture div{
+	width: 650px;
+	height: 160px;
+	margin: 0 auto;
+}
+.right .picture div span,.right .picture div ul li{
+	float: left;
+}
+.right .picture div span{
+	margin-top: 50px;
+	margin-left: 10px;
+	cursor: pointer;
+}
+.right .picture div span:last-child{
+	margin-left: 15px;
+}
+.right .picture div ul li{
+	width: 180px;
+	height: 120px;
+	margin-right: 10px;
+}
+.right .picture div ul li:last-child{
+	margin-right: 0;
+}

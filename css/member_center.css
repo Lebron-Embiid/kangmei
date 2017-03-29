@@ -1,0 +1,83 @@
+.right .content .head{
+	width: 610px;
+	margin: 40px auto 20px;
+}
+.right .content .head .head_left{
+	width: 120px;
+	height: 160px;
+	float: left;
+}
+.right .content input{
+	display: block;
+	width: 70px;
+	height: 20px;
+	margin: 0 auto;
+	border-radius: 3px;
+	color:#F1EEEA;
+	font-size: 13px;
+	background: url(../img/btn_bg.png) center center no-repeat;
+	cursor: pointer;
+}
+.right .content .head .head_right{
+	width: 480px;
+	height:160px;
+	float: right;
+}
+.right .content .head .head_right .info{
+	width: 460px;
+	height: 90px;
+	background: #fff;
+	padding: 10px 0 10px 20px;
+}
+.right .content .head .head_right .info span{
+	margin-bottom: 5px;
+	color:#AC9958;
+}
+.right .content .head .head_right .info .log{
+	display: block;
+	width: 300px;
+}
+.right .content .head .head_right .input,.right .content .file .right_box .input{
+	float: right;
+	margin-top: 15px;
+}
+.right .content .head .head_right .input input,.right .content .file .right_box .input input{
+	float: left;
+	margin-left: 20px;
+}
+
+.right .content .file{
+	width: 610px;
+	overflow: hidden;
+	margin: 0 auto;
+}
+.right .content .file span{
+	display: block;
+	width: 70px;
+	color:#AC9958;
+	font-size: 14px;
+}
+.right .content .file .right_box{
+	width: 540px;
+	margin-left: 70px;
+}
+.right .content .file .right_box .info{
+	width: 540px;
+	height: 160px;
+	background: #fff;
+}
+.right .content .file .right_box .info img{
+	float: left;
+}
+.right .content .file .right_box .info p{
+	width: 330px;
+	height: 130px;
+	overflow: hidden;
+	line-height: 20px;
+	color:#AC9958;
+	float: left;
+	padding: 10px 0;
+}
+.right .content .file .right_box div img{
+	margin: 15px;
+}

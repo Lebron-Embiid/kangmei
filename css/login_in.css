@@ -1,0 +1,63 @@
+.right form{
+	width: 350px;
+	height: 220px;
+	margin:0 auto;
+	background: #FDECCE;
+	margin-top: 40px;
+}
+.right form{
+	padding-left: 20px;
+	padding-top: 30px;
+}
+.right form td:first-child{
+	text-align: right;
+	color:#B2A060;
+}
+.right td{
+	height: 35px;
+}
+.right td p{
+	color:#B2A060;
+	font-size: 12px;
+	text-align: center;
+	line-height: 20px;
+}
+.right form td input[type="text"],.right form td input[type="password"]{
+	width: 250px;
+	height: 25px;
+	margin-left: 10px;
+}
+.right form .user{
+	background:#fff url(../img/person.png) 5px center no-repeat;
+	text-indent: 25px;
+}
+.right form .password{
+	background:#fff url(../img/password.png) 5px center no-repeat;
+	text-indent: 25px;
+}
+.right form .code{
+	text-indent: 10px;
+}
+.right form img{
+	float: left;
+	cursor: pointer;
+	margin-left: 10px;
+}
+.right form span{
+	line-height: 45px;
+	margin-left: 10px;
+	color:#B2A060;
+	cursor: pointer;
+}
+.right form span:hover{
+	text-decoration: underline;
+}
+.right form input[type="submit"],.right form input[type="reset"]{
+	width: 70px;
+	height: 30px;
+	background: url(../img/btn_bg.png);
+	color:#fff;
+	margin-top: 10px;
+	margin-left: 30px;
+	cursor: pointer;
+}

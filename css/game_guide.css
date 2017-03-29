@@ -1,0 +1,61 @@
+.right .content .img{
+	display: block;
+	margin: 30px auto 50px;
+}
+.right .content div{
+	width: 660px;
+	overflow: hidden;
+	margin: 0 auto 30px;
+}
+.right .content div .nav1{
+	width: 660px;
+	height: 30px;
+	background: url(../img/nav1.png) left center no-repeat;
+}
+.right .content div .nav2{
+	width: 660px;
+	height: 30px;
+	background: url(../img/nav2.png) left center no-repeat;
+}
+.right .content div .nav3{
+	width: 660px;
+	height: 30px;
+	background: url(../img/nav3.png) left center no-repeat;
+}
+.right .content div .nav4{
+	width: 660px;
+	height: 30px;
+	background: url(../img/nav4.png) left center no-repeat;
+}
+.right .content div p{
+	width: 620px;
+	overflow: hidden;
+	margin: 0 auto;
+	color:#413C2A;
+	font-size: 12px;
+	line-height: 22px;
+}
+.right .content .award{
+	padding-bottom: 30px;
+}
+.right .content .award p{
+	text-indent: 20px;
+}
+.right .content .award p.first{
+	background: url(../img/medal1.png) left center no-repeat;
+}
+.right .content .award p.second{
+	background: url(../img/medal2.png) left center no-repeat;
+}
+.right .content .award p.third{
+	background: url(../img/medal3.png) left center no-repeat;
+}
+.right .content .award p.fourth{
+	background: url(../img/medal4.png) left center no-repeat;
+}
+.right .content .award p.fifth{
+	background: url(../img/medal5.png) left center no-repeat;
+}
+.right .content .award p.sixth{
+	background: url(../img/medal6.png) left center no-repeat;
+}

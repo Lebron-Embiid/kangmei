@@ -1,0 +1,42 @@
+.right .content .list{
+	width: 615px;
+	overflow: hidden;
+	margin: 0 auto 20px;
+}
+.right .content .list li{
+	width: 615px;
+	height: 40px;
+	line-height: 50px;
+	border-bottom: 1px solid #C8B98C;
+	background: url(../img/right_icon.png)left 21px no-repeat;
+	text-indent: 20px;
+}
+.right .content .list li:hover a{
+	color:#7A6B41;
+}
+.right .content .list li a{
+	color:#B49F64;
+	font-size: 12px;
+	line-height: 50px;
+}
+.right .content .list li span{
+	float: right;
+	font-size: 12px;
+	height: 40px;
+	color:#B9A56B;
+	line-height: 50px;
+}
+
+.right .page ul{
+	float: right;
+	margin-bottom: 20px;
+	margin-right: 40px;
+}
+.right .page ul li{
+	float: left;
+	margin-right: 6px;
+}
+.right .page ul li a{
+	color:#7C5A24;
+	font-size: 12px;
+}

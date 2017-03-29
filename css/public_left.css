@@ -1,0 +1,103 @@
+/*公告*/
+.content .public{
+	background: #FFF0D1;
+	overflow: hidden;
+	box-shadow: 5px 1px 5px #DFCBA6;
+}
+.content .ad{
+	width: 981px;
+	margin: 0 auto;
+	padding: 11px 0 50px 0;
+}
+.content .ad div{
+	margin-left: 115px;
+}
+.content .horn{
+	background: url(../img/forn.png) 0 center no-repeat;
+	width:100px;
+	height: 20px;
+	text-indent: 25px;
+	font-size: 15px;
+	font-weight: bold;
+	color:#D54903;
+}
+.content span{
+	display: block;
+	font-size: 12px;
+	line-height: 20px;
+	color:#040403;
+	margin-right: 15px;
+	float: left;
+}
+.content span:last-child{
+	margin-right: 0;
+}
+
+/*左边*/
+.left{
+	width: 260px;
+	overflow: hidden;
+	float: left;
+	padding-bottom: 30px;
+}
+.left .way{
+	width: 241px;
+	height: 175px;
+	background: url(../img/box.png);
+	margin-left: 10px;
+	margin-bottom: 20px;
+	overflow: hidden;
+}
+.left .way h3{
+	font-size: 18px;
+	color:#B38348;
+	text-align: center;
+	margin-top: 10px;
+}
+.left .way p{
+	font-size: 13px;
+	color:#663C35;
+	text-indent: 10px;
+}
+.left .way span{
+	color: #663C35;
+	text-indent: 30px;
+	font-size: 14px;
+}
+.left .login_box{
+	width: 240px;
+	height: 65px;
+	border-top: 1px solid #F1D4AB;
+	border-bottom: 1px solid #F1D4AB;
+	margin-left: 10px;
+}
+.left .login_box span{
+	display: block;
+	width: 100px;
+	height: 65px;
+	line-height: 65px;
+	margin-left: 10px;
+	text-indent: 40px;
+	color:#724D1A;
+	font-size: 15px;
+}
+.left .login_box .enter{
+	background: url(../img/enter.png) 0 center no-repeat;
+}
+.left .login_box .login{
+	background: url(../img/login.png) 0 center no-repeat;
+	float: right;
+}
+.left .img{
+	width: 250px;
+}
+.left .wx,.left .wb{
+	margin-top: 20px;
+	margin-left: 10px;
+}
+.left .wb{
+	float: right;
+}
+.left .gift{
+	margin-top: 30px;
+}

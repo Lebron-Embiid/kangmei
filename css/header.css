@@ -1,0 +1,87 @@
+body{
+	background: #FFF3E7;
+}
+.public{
+	width: 1000px;
+	margin: 0 auto;
+}
+.header{
+	width: 100%;
+	height: 180px;
+}
+.header .header_img{
+	position: absolute;
+	top:0;
+	z-index: 1;
+	width: 100%;
+	min-width: 1200px;
+}
+.header .public{
+	position: relative;
+}
+.header .public .img{
+	position: absolute;
+	top:28px;
+	box-shadow: 5px 0 5px #DFCBA6;
+	z-index: -1;
+}
+.header .font{
+	width: 640px;
+	height: 126px;
+	float: right;
+	margin-right: 70px;
+}
+.header .font .home_font{
+	margin-top: 50px;
+	margin-left: 80px;
+}
+.header .font .login_font{
+	margin-top: 45px;
+}
+/*导航*/
+.nav{
+	width: 100%;
+	height: 44px;
+	background: url(../img/nav_bg.jpg);
+	margin-top: 10px;
+}
+.nav ul{
+	width: 1000px;
+	overflow: hidden;
+	margin-left: 20px;
+}
+.nav ul li{
+	float: left;
+	line-height: 40px;
+	width: 120px;
+	height: 44px;
+	text-align: center;
+	position: relative;
+	cursor: pointer;
+}
+.nav ul li:last-child{
+	margin-right: 0;
+}
+.nav ul li a{
+	color:#FFFABD;
+	font-size: 16px;
+	font-weight: bold;
+	letter-spacing: 2px;
+	display: block;
+	width: 120px;
+	height: 44px;
+}
+.nav ul li .span{
+	font-size: 8px;
+	color:#FFFABD;
+	position: absolute;
+	bottom: -15px;
+	right: 28px;
+	text-align: right;
+}
+.nav ul li:first-child .span{
+	right: 38px;
+}
+.nav ul li.active,.nav ul li:hover{
+	background: url(../img/yun.png) center center no-repeat;
+}

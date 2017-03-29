@@ -1,0 +1,22 @@
+.right .content{
+	margin-bottom: 300px;
+}
+.right .content h2,.right .content h3,.right .content p,.right .content h4{
+	font-family: "宋体";
+	width: 680px;
+	color:#76663D;
+}
+.right .content h2{
+	font-size: 14px;
+	text-align: center;
+	letter-spacing: 0;
+}
+.right .problem{
+	margin-bottom: 10px;
+}
+.right .problem h3{
+	text-indent: 3em;
+}
+.right .problem h4{
+	text-indent: 2em;
+}

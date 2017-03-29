@@ -1,0 +1,24 @@
+.right .content{
+	margin-bottom: 300px;
+}
+.right .content h2,.right .content p,.right .content div h3{
+	width: 680px;
+	font-family: "仿宋体";
+	color:#79693F;
+}
+.right .content h2{
+	font-size: 14px;
+	text-align: center;
+	letter-spacing: 0;
+}
+.right .content .p{
+	text-align: center;
+}
+.right .content div{
+	margin-bottom: 20px;
+}
+
+.right .content div p{
+	text-indent: 2em;
+	font-size: 12px;
+}

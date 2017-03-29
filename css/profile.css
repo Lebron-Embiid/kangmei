@@ -1,0 +1,22 @@
+.right .content{
+	position: relative;
+	margin: 20px auto 60px;
+}
+.right .content h2{
+	font-size: 28px;
+	font-weight: bold;
+	color:#000;
+	position: absolute;
+	bottom: 10px;
+	left: -15px;
+}
+.right p{
+	width: 630px;
+	text-indent: 2em;
+	margin-bottom: 5px;
+	font-size: 13px;
+	color:#645E4D;
+}
+.right p:last-child{
+	margin-bottom: 140px;
+}

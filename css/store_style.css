@@ -1,0 +1,100 @@
+.right{
+	width: 730px;
+}
+.right .line{
+	width:690px;
+	margin:0 auto;
+}
+.right .store{
+	width: 730px;
+	overflow: hidden;
+	margin: 0 auto;
+}
+.right .store .nav_list{
+	width: 730px;
+	margin: 15px 0 60px 5px;
+}
+.right .store .nav_list li{
+	float: left;
+	width: 110px;
+	background: url(../img/list_bg.png) center center no-repeat;
+	margin-right: 11px;
+	text-align: center;
+	line-height: 27px;
+	font-size: 12px;
+	cursor: pointer;
+}
+.right .store .nav_list li a{
+	color:#6B3801;	
+}
+.bg_box{
+	width: 665px;
+	margin: 0 auto;
+}
+.bg_box .img_box_left,.bg_box .img_box_right{
+	width: 320px;
+	height: 230px;
+	background: #6A3800;
+	margin-bottom: 20px;
+}
+.bg_box .img_box_left{
+	float: left;
+}
+.bg_box .img_box_right{
+	float: right;
+}
+.bg_box .img_box_left .content,.bg_box .img_box_right .content{
+	width: 300px;
+	height: 220px;
+	background: #E9DEB8;
+	margin: 5px auto;
+	border-radius: 5px;
+	overflow: hidden;
+}
+.bg_box .img_box_left .content img,.bg_box .img_box_right .content img{
+	display: block;
+	margin: 20px auto 15px;
+}
+.bg_box .img_box_left .content .font,.bg_box .img_box_right .content .font{
+	width: 270px;
+	margin: 0 auto;
+}
+.bg_box .img_box_left .content .font h4 span,.bg_box .img_box_right .content .font h4 span{
+	color:#83602B;
+	display: block;
+	margin-right: 40px;
+	font-size: 12px;
+}
+.bg_box .img_box_left .content .font p,.bg_box .img_box_right .content .font p{
+	font-size: 12px;
+	color:#83602B;
+}
+.bg_box .img_box_left .content .font p span,.bg_box .img_box_right .content .font p span{
+	color:#990000;
+	float: right;
+	line-height: 28px;
+}
+.bg_box .img_box_left .content .font input,.bg_box .img_box_right .content .font input{
+	float: right;
+	display: block;
+	width: 55px;
+	height: 20px;
+	background: #B4A367;
+	color:#F1EEE3;
+	line-height: 15px;
+	margin-right: 10px;
+}
+
+.right .page ul{
+	float: right;
+	margin-right: 25px;
+	margin-bottom: 20px;
+}
+.right .page ul li{
+	float: left;
+	margin-right: 6px;
+}
+.right .page ul li a{
+	color:#7C5A24;
+	font-size: 12px;
+}

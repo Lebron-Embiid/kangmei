@@ -1,0 +1,62 @@
+.right .content .title{
+	width: 670px;
+	height: 160px;
+	background: #FCE7C4;
+	padding: 5px;
+	margin: 10px 0 15px 0;
+}
+.right .content .title p{
+	color:#996601;
+	text-indent: 2em;
+	font-size: 12px;
+	line-height: 20px;
+	font-family: "宋体";
+}
+.right .content .title p span{
+	float: right;
+	color:#990000;
+}
+.right .content h3{
+	background: url(../img/h2.png)no-repeat;
+	color:#795820;
+	font-size: 15px;
+	text-indent: 12px;
+	padding-top: 18px;
+}
+.right .content .news{
+	width: 680px;
+	overflow: hidden;
+	margin: 0 auto;
+}
+.right .content .news li{
+	width: 670px;
+	overflow: hidden;
+	padding: 15px 0 10px 0;
+	border-bottom: 1px dashed #8E6F3E;
+}
+.right .content .news li h4{
+	font-size: 16px;
+	font-weight: bold;
+	color:#79581F;
+	margin-bottom: 10px;
+}
+.right .content .news li p{
+	width: 670px;
+	text-indent: 2em;
+	font-size: 12px;
+	color:#7B5A22;
+	line-height: 20px;
+}
+
+.right .page ul{
+	float: right;
+	margin: 10px 15px 20px 0;
+}
+.right .page ul li{
+	float: left;
+	margin-right: 6px;
+}
+.right .page ul li a{
+	color:#7C5A24;
+	font-size: 12px;
+}
